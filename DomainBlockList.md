@@ -6,7 +6,7 @@ Rarely is suspend used, primarily, while we do support freedom of association, w
 
 | Domain      | Reason           | Date  | Type|
 |:-------------:|:-------------:|:-----:|:-----:|
-| pawoo.net      | Lolicon | 6 Dec 2017 | Silence |
+| pawoo.net      | Lolicon | 6 Dec 2017 | Silence + No media cache |
 | toot.love      | Nazis      |   8 Dec 2017 | Silence |
 | gs.smuglo.li | Lolicon      |    10 Dec 2017 | Silence + No media cache |
 | counter.social | AGPL Violation* | 31 Dec 2017 | Suspend |
