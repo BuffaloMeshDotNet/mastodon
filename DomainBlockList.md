@@ -4,9 +4,9 @@ Various levels of blocking occur.  We try to stick with silence, but in the case
 
 Rarely is suspend used, primarily, while we do support freedom of association, we do not want things contrary to our usage agreement to be in the publicly federated timeline.
 
-| Domain      | Reason           | Date  |
-|:-------------:|:-------------:|:-----:|
-| pawoo.net      | Lolicon | 6 Dec 2017 |
-| toot.love      | Nazis      |   8 Dec 2017 |
-| gs.smuglo.li | Lolicon      |    10 Dec 2017 |
-| counter.social | AGPL Violation | 31 Dec 2017 |
+| Domain      | Reason           | Date  | Type|
+|:-------------:|:-------------:|:-----:|:-----:|
+| pawoo.net      | Lolicon | 6 Dec 2017 | Silence |
+| toot.love      | Nazis      |   8 Dec 2017 | Silence |
+| gs.smuglo.li | Lolicon      |    10 Dec 2017 | Silence + No media cache |
+| counter.social | AGPL Violation* | 31 Dec 2017 | Suspend |
