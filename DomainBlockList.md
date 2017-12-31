@@ -9,3 +9,4 @@ Rarely is suspend used, primarily, while we do support freedom of association, w
 | pawoo.net      | Lolicon | 6 Dec 2017 |
 | toot.love      | Nazis      |   8 Dec 2017 |
 | gs.smuglo.li | Lolicon      |    10 Dec 2017 |
+| counter.social | AGPL Violation | 31 Dec 2017 |
