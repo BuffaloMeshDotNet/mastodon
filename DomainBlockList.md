@@ -10,3 +10,4 @@ Rarely is suspend used, primarily, while we do support freedom of association, w
 | toot.love      | Nazis      |   8 Dec 2017 | Silence |
 | gs.smuglo.li | Lolicon      |    10 Dec 2017 | Silence + No media cache |
 | counter.social | AGPL Violation* | 31 Dec 2017 | Suspend |
+| the.hedgehoghunter.club | Loose moderation rules | 1 Nov 2018 | Silence |
